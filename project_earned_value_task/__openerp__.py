@@ -32,10 +32,10 @@
     """,
     "init_xml": [],
     "update_xml": [
+        "data/project_data.xml",
         "view/project_evm_view.xml",
         "view/project_view.xml",
-        "wizard/earned_value_view.xml",
-        "data/project_data.xml",
+        "wizard/earned_value_view.xml"
     ],
     'demo_xml': [
 
